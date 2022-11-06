@@ -1,0 +1,81 @@
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\scopedcss\bundle\Demo.styles.css
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CopyComplete
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\nader\OneDrive\سطح المكتب\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\scopedcss\bundle\Demo.styles.css
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.csproj.CopyComplete
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\nader\OneDrive\سطح المكتب\APi Lab\Demo 1\Demo\obj\Debug\net6.0\ref\Demo.dll
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\appsettings.Development.json
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\appsettings.json
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.exe
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.deps.json
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.dll
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Demo.pdb
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+N:\Progarming\APi Lab\Demo 1\Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\staticwebassets.build.json
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\staticwebassets.development.json
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\scopedcss\bundle\Demo.styles.css
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.csproj.CopyComplete
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.dll
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\refint\Demo.dll
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.pdb
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+N:\Progarming\APi Lab\Demo 1\Demo\obj\Debug\net6.0\ref\Demo.dll
